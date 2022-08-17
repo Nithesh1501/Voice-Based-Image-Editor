@@ -1,0 +1,35 @@
+Voice based Image Editor Application
+
+This app is used to optimize images using voice commands. Features like crop, rotate, flip are available in this app.
+To start the app, first run the main_layout.py file. Now, Authorization window opens and user must register his details and login to access the application. The main layout file consists of two options which are color window and modify window. In color view, you can convert the image to black and white or grayscale.
+In modify view, options like rotate, resize, flip, enhance are available.
+ 
+Voice commands:
+
+1.	Main window: 
+In main window, first load the image by uploading the path of image file along with the name and extension. 
+•	Load: Click the load button and say “load” to upload the image.
+•	Logout: Click the second button and say “logout” to logout from the application.
+•	Color: Click the second button and say “color” to open color window.
+•	Modify: Click the second button and say “modify” to open modify window.
+
+2. Color window:  say or speak 'color' to open color view.
+In color view:
+•	Black and white: say or speak 'black and white' to                    convert and open the image in black and white.
+•	Grayscale: say or speak 'Grayscale' to convert and open the image in grayscale.
+•	Exit: say “exit” to exit the color window and return to main window.
+    
+3. Modify window: say or speak 'modify' to open modify view.
+In modify view:
+•	Resize:  say or speak 'resize' to reduce or increase the size of the image.
+•	Rotate:  say or speak 'rotate' to rotate the image. Also, say the number of degrees so as to rotate the image.
+•	Flip:    say or speak 'flip' to flip the image.
+•	Enhance: say or speak 'enhance' to reduce the resolution of the image.
+•	Exit: say “exit” to exit the modify window and return to main window.
+
+ 
+Note: 
+•	*Images which are edited are saved in the same folder.
+•	*Internet connection is required to use the application.
+
+

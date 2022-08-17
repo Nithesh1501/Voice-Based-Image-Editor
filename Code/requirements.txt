@@ -1,0 +1,10 @@
+Pillow librabry must be installed.
+Speech Recognition library must be installed.
+PyAudio module should be installed.
+Sqlite3 must be installed.
+Microhphone and Internet connection is required.
+
+Run these commands in terminal or powershell to install the above librabries:
+    ->pip install Pillow
+    ->pip install PyAudio
+    ->pip install SpeechRecognition
